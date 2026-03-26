@@ -64,7 +64,6 @@ Este comportamiento provoca que el tiempo de ejecucion no crezca de forma lineal
 Conclusion:
 Los resultados experimentales confirman que CYK presenta una complejidad O(n^3), lo cual lo hace costoso para entradas grandes.
 
-Imagen sugerida:
 <img width="197" height="155" alt="image" src="https://github.com/user-attachments/assets/2404d2fe-d626-4741-8984-20e7d3b6d320" />
 
 
@@ -86,7 +85,6 @@ Debido a esto, el numero de operaciones crece de forma proporcional al tamano de
 Conclusion:
 El comportamiento observado es cercano a O(n), lo que hace que este tipo de parser sea eficiente y adecuado para aplicaciones reales.
 
-Imagen sugerida:
 <img width="209" height="157" alt="image" src="https://github.com/user-attachments/assets/3f2805b6-bf74-409d-80f9-be11d7b9d0f9" />
 
 ---
