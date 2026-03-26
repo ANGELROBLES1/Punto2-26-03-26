@@ -39,11 +39,14 @@ Se ejecuta:
 - Mide los tiempos de ejecucion para diferentes tamanos de entrada
 ---
 ### 5. Salida del programa
+
 <img width="741" height="183" alt="image" src="https://github.com/user-attachments/assets/1e383a89-5f65-4cb1-a854-7b7fa7d2de12" />
+
 - n es el tamano de la cadena
 - CYK es el tiempo del algoritmo cubico
 - ANTLR es el tiempo del parser lineal
 ---
+
 ### Analisis
 ### Algoritmo CYK
 
