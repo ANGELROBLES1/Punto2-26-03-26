@@ -8,17 +8,15 @@
 El programa requiere los siguientes archivos organizados en la carpeta `Punto2`:
 
 Punto2/
-│
-├── cyk.py
-├── medir.py
-├── resultados.txt
-│
-├── antlr_parser/
-│ ├── Simple.g4
-│ ├── pruebas.py
-│ ├── SimpleLexer.py
-│ ├── SimpleParser.py
-│ ├── (demas archivos generados por ANTLR)
+- cyk.py
+- medir.py
+- resultados.txt
+- antlr_parser/
+  - Simple.g4
+  - pruebas.py
+  - SimpleLexer.py
+  - SimpleParser.py
+
 
 - `cyk.py`: Implementacion del algoritmo CYK con complejidad O(n^3)
 - `medir.py`: Script que ejecuta y compara ambos algoritmos
