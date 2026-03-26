@@ -6,7 +6,7 @@
 ### 1. Archivos necesarios
 
 El programa requiere los siguientes archivos organizados en la carpeta `Punto2`:
-``
+
 Punto2/
 │
 ├── cyk.py
@@ -19,7 +19,7 @@ Punto2/
 │ ├── SimpleLexer.py
 │ ├── SimpleParser.py
 │ ├── (demas archivos generados por ANTLR)
-``
+
 - `cyk.py`: Implementacion del algoritmo CYK con complejidad O(n^3)
 - `medir.py`: Script que ejecuta y compara ambos algoritmos
 - `resultados.txt`: Archivo con los tiempos obtenidos
